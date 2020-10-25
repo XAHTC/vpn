@@ -4,7 +4,7 @@ $(document).ready(function() {
     $(this).toggleClass("active");
     $(".menu-header__menu").toggleClass("active");
   })
-
+  adaptiveButtons();
   $(window).resize(function(evt) {
     adaptiveButtons();
   })
