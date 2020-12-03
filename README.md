@@ -1,1 +1,1 @@
-# vpn [DEMO](https://xahtc.github.io/vpn)
+# vpn-site [DEMO](https://xahtc.github.io/vpn-site)
